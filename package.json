@@ -1,6 +1,6 @@
 {
   "name": "majordickalert",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A node module with no other purpose than to violently (or non-violently) insult people",
   "main": "index.js",
   "scripts": {
