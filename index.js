@@ -2,7 +2,7 @@ const https = require('https');
 
 class fuck {
 
-    constructor(client, debug, subReddit) { // whoa thats a pretty cool constructor
+    constructor(client, debug, subReddit) { // wow thats a pretty cool constructor
         this.client = client
         this.debug = debug
         this.subReddit = subReddit
